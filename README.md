@@ -72,7 +72,7 @@ Created by Anushka G
 ## 📸 Project Screenshots
 
 ### Dataset Preview
-![Dataset Preview](Dataset_Preview(2).png)
+![Dataset Preview](Dataset_Preview.png)
 
 ### Age Distribution
 ![Age Distribution](Age_Distribution.png)
