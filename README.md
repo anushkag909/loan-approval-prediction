@@ -69,28 +69,4 @@ The model predicts loan approval based on applicant details and demonstrates the
 ---
 Created by Anushka G
 
-## 📸 Project Screenshots
 
-### Dataset Preview
-![Dataset Preview](Dataset_Preview.png)
-
-### Age Distribution
-![Age Distribution](Age_Distribution.png)
-
-### Annual Income Distribution
-![Annual Income Distribution](Annual_Income_Distribution.png)
-
-### Spending Score Distribution
-![Spending Score Distribution](Spending_Score_Distribution.png)
-
-### Elbow Method
-![Elbow Method](Elbow_Method.png)
-
-### Customer Segmentation
-![Customer Segmentation](Customer_Segmentation_KMeans.png)
-
-### Customer Distribution
-![Customer Distribution](Customer_Distribution.png)
-
----
-Created by Anushka G
